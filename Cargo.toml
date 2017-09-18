@@ -1,0 +1,9 @@
+[package]
+name = "sheika_glyph"
+version = "0.1.0"
+authors = ["Braeden Mollot <3mollot@gmail.com>"]
+
+[dependencies]
+gfx = "*"
+gfx_window_glutin = "*"
+glutin = "0.8.1"
